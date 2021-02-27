@@ -1,5 +1,4 @@
 import praw
-import config
 import time
 import os
 
