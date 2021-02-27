@@ -5,9 +5,9 @@ import os
 
 def bot_login():
 	r = praw.Reddit(username = 'legalise-bot',
-				password = 'legaliseherb21',
-				client_id = 'w-zFWKNrO1GiYw',
-				client_secret = 'XIwR2Pfi4K36pBlGostdSBsTUNC1aQ',
+				password = 'removed_for_security',
+				client_id = '^',
+				client_secret = '^',
 				user_agent = "legalise-bot by /u/ddgsanc")
 	return r
 
